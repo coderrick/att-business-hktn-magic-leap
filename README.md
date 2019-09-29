@@ -1,2 +1,2 @@
 # att-business-hktn-magic-leap
-a project for this hackathon
+5GTV an new virtual experience using the Magic Leap and point clouds
